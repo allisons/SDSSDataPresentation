@@ -4,3 +4,4 @@ dependencies:
   - pandas
   - python=3.6
   - scikit-image
+  - seaborn
